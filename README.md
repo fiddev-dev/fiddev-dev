@@ -6,9 +6,9 @@
 
 *Building connected solutions and elegant web applications*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafid-z-082a9735a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiddev-dev.github.io/my-portofolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafidzkv@gmail.com)
 
 </div>
 
@@ -18,16 +18,16 @@
 
 I'm a passionate developer specializing in **IoT solutions** and **modern web development**. I love creating innovative projects that bridge the physical and digital worlds, from smart devices to interactive web applications.
 
-- 🔭 Currently working on IoT and web development projects
-- 🌱 Continuously learning new technologies and best practices
-- 💡 Interested in automation, smart systems, and user-centric design
-- 🎨 Focused on building scalable and efficient solutions
+- Currently working on IoT and web development projects
+- Continuously learning new technologies and best practices
+- Interested in automation, smart systems, and user-centric design
+- Focused on building scalable and efficient solutions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -36,13 +36,13 @@ I'm a passionate developer specializing in **IoT solutions** and **modern web de
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
-### 🔧 Tools & Software
+###  Tools & Software
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
@@ -53,7 +53,7 @@ I'm a passionate developer specializing in **IoT solutions** and **modern web de
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+
 </p>
 
 ---
@@ -70,68 +70,3 @@ I'm a passionate developer specializing in **IoT solutions** and **modern web de
 </div>
 
 ---
-
-## 🏆 Skills Highlights
-
-```javascript
-const skills = {
-    iot: {
-        hardware: ["Arduino", "ESP32", "ESP8266", "Sensors", "Actuators"],
-        protocols: ["MQTT", "HTTP", "WebSocket"],
-        platforms: ["PlatformIO", "Arduino IDE"]
-    },
-    webDevelopment: {
-        frontend: ["React.js", "HTML5", "CSS3", "JavaScript"],
-        backend: ["Laravel", "PHP", "REST APIs"],
-        tools: ["VS Code", "Git", "npm"]
-    },
-    languages: ["C++", "JavaScript", "PHP", "HTML/CSS"],
-    interests: ["Smart Home", "Automation", "IoT Solutions", "Web Apps"]
-};
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🌟 [Project Name 1](link-to-project)
-**IoT Smart Home System**
-- Built with ESP32 and React.js
-- Real-time monitoring and control via web interface
-- MQTT protocol for device communication
-
-### 🌟 [Project Name 2](link-to-project)
-**E-commerce Web Application**
-- Developed with Laravel and React.js
-- Complete CRUD operations and authentication
-- Responsive design with modern UI/UX
-
-### 🌟 [Project Name 3](link-to-project)
-**Environmental Monitoring System**
-- Arduino-based sensor network
-- Data visualization dashboard
-- Cloud data storage and analytics
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "The best way to predict the future is to create it"
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)
-
-</div>
