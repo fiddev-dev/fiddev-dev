@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 IoT Engineer | 💻 Web Developer
+### IoT Engineer | Web Developer
 
 *Building connected solutions and elegant web applications*
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a passionate developer specializing in **IoT solutions** and **modern web development**. I love creating innovative projects that bridge the physical and digital worlds, from smart devices to interactive web applications.
 
